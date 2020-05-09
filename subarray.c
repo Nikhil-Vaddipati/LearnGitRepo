@@ -16,6 +16,6 @@ int main()
             }
     }
 
-
+printf("Oka pranam,oka tyagam \n");
 
 }
