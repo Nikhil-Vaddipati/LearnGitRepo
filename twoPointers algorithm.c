@@ -6,6 +6,8 @@ int main()
     printf("Enter the value of x\n");
     scanf("%d",&x);
     twoPointer(arr,x);
+    printf("-----------------------\n");
+    printf("dev branch\n");
 
 }
 
